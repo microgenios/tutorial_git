@@ -18,7 +18,7 @@ void print (const char * text) {
 
 int main (int argc, char** argv) {
 	
-	print("Hello World ");
+	print("Estou aqui");
 	
 	return 0;
 }
