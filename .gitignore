@@ -1,0 +1,15 @@
+# Pasta de compilação
+build/
+build/*
+
+# Executáveis
+*.exe
+*.out
+
+# Arquivos objeto
+*.o
+*.obj
+
+# IDE (opcional)
+.vscode/
+.idea/
